@@ -331,6 +331,11 @@ pre code {
   border-right: 0px solid #6a6;
 }
 
+/* 不换行 */
+.no-wrap {
+  white-space: nowrap;
+}
+
 /* 涉及到数学公式中的一个样式 */
 mjx-assistive-mml {
   height: 100%;
