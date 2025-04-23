@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: '尚硅谷 JavaWeb'
-  text: '基于 VitePress 搭建的学习记录平台'
+  # text: '基于 VitePress 搭建的学习记录平台'
   tagline: '系统梳理 JavaWeb 开发知识，助你打牢 Web 后端基础'
   actions:
     - theme: brand
