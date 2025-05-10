@@ -146,12 +146,10 @@ pre code {
   padding-right: 16px;
 }
 /* 首页图片：对应的美少女 png */
-/* 
 .image-src {
   max-width: 460px !important;
   max-height: 460px !important;
-} 
-*/
+}
 
 /* 左侧 */
 .text {
@@ -329,6 +327,15 @@ pre code {
   border-left: 6px solid #6a6;
   border-bottom: 6px solid transparent;
   border-right: 0px solid #6a6;
+}
+
+/* 自定义引用块 */
+.quote_box {
+  border: 1px solid #ff6347;
+  padding: 10px 16px;
+  border-radius: 6px;
+  background-color: #fff9f3;
+  margin: 16px 0;
 }
 
 /* 不换行 */
